@@ -183,6 +183,6 @@ D (+/-)	60–69
 F (+/-)	< 60
 
 Source code and inspiration from:
-
-
-
+https://github.com/ASooklall/python-api-challenge/blob/master/VacationPy.ipynb
+https://github.com/bbixby/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb
+https://github.com/brown016340/python-api-challenge/blob/main/code/VacationPy.ipynb
